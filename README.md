@@ -7,4 +7,5 @@ feedbacks(drop-outs,error messages
 security focused
 at-need display or at-whole display
 issues with signups:password-resue,weak passwords,keyloggers,malware,password-sharing
-
+Which passwords that store your info and retakes them and compare them,that makes the whole system vulnerable if the storahe data is stolen.
+it means that in order to have an extreme security we need to have a way of identify authentic users without using stored data.
