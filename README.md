@@ -1,4 +1,4 @@
-# Intranet-interfaces
+# Authentication System
 login/sign up gives us access to a service/product.
 The access to intranet is made into categories:signin,signup,real-time generated code,forgot password/email,error messages,hint,close button,legal obligations
 It consist of username/email,passwords,contact,codes,automatic signin/up,full name,age,agree term and condition,buttons,feilds,checks,labels
