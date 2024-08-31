@@ -1,4 +1,10 @@
 # Authentication System
+Why is authentication system needed?It's simple.It is because we don't trust one another.
+You have some dragon eggs but your sister might take them from you,so you hide it a place she will not know,but she might still chance on it.
+Or may she is searching for her lost items and has to search the whole house.Ooops she saw some dragon eggs and hides it to.You can't find your dragon eggs ,you can't ask anyone either.
+What a painful experience? Goodness sake I don't know if dragons exist.This is it ,if you want secured system store nothing or at least something that can't be mimicked by anyone or a system.
+Then how do you know WHO is getting into your system?
+Well it is now obvious there is no way to 
 login/sign up gives us access to a service/product.
 The access to intranet is made into categories:signin,signup,real-time generated code,forgot password/email,error messages,hint,close button,legal obligations
 It consist of username/email,passwords,contact,codes,automatic signin/up,full name,age,agree term and condition,buttons,feilds,checks,labels
