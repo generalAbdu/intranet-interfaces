@@ -18,3 +18,6 @@ it means that in order to have an extreme security we need to have a way of iden
 The goal of your design,device type ,users and focus.
 Always there should be strong reasons to why you would like to not stick to standard ways of authentication designs.
 the number goal of those interface is security.the number goal of interface is userfriendliness
+Context-aware and ai authentication system will be a revolutionary path toward freedom from country and big tech company censorship.
+It means there will be increase in company profits since content and password can't be shared.
+It will also maintain a balance between security and user experience.
